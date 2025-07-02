@@ -1,0 +1,15 @@
+{
+  "kind": "collectionType",
+  "collectionName": "custom_passwords",
+  "info": {
+    "singularName": "custom-password",
+    "pluralName": "custom-passwords",
+    "displayName": "Custom-password"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "attributes": {
+   
+  }
+}

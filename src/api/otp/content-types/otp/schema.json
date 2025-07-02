@@ -1,0 +1,15 @@
+{
+  "kind": "collectionType",
+  "collectionName": "otps",
+  "info": {
+    "singularName": "otp",
+    "pluralName": "otps",
+    "displayName": "otp"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    
+  }
+}

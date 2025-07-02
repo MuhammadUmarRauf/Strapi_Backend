@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "product_ones",
+  "info": {
+    "singularName": "product-one",
+    "pluralName": "product-ones",
+    "displayName": "Product one"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "products_name": {
+      "type": "string"
+    },
+    "product_image": {
+      "allowedTypes": [
+        "files",
+        "images"
+      ],
+      "type": "media",
+      "multiple": true
+    },
+    "product_quantity": {
+      "type": "string"
+    }
+  }
+}
